@@ -10,9 +10,9 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: cat003
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 6em # Default is 8em
+home-title-y-padding: 2em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: top # Default is center
+home-banner-image-position: center # Default is center
 
 ##########
 # ITEM PAGE
