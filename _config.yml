@@ -25,7 +25,7 @@ title: Cats I Have Met
 tagline: A repository of fuzzy friends
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A digital library created to store important resources pertaining to important cats"
+description: "A digital library created to store important resources pertaining to important cats."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Steven Whelan
 
