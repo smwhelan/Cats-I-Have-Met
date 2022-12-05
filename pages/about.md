@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="cat015" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Featured Cats" %}
 
 ## The Joy of Meeting Cats
 
@@ -21,3 +21,5 @@ This collection strives to share the unique happiness one feels both when meetin
 {% include feature/audio.html objectid="cat026" %}
 
 {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="cat034" width="25" centered=true %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="cat034" width="25" centered=true %}
+
+{% include cb/about_the_about.md %}
