@@ -2,4 +2,5 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,true,
 subject,,true,,Subject
+setting,,true,,Setting
 location,,true,,Location
