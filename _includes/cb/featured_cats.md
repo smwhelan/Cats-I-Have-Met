@@ -13,8 +13,11 @@
 
 {% include feature/card.html header="Sesame says:" text="It's good to be fuzzy." objectid="cat029" width="25" centered=true %}
 
+{% include feature/card.html header="Tofu says:" text="Gimme a high-five." objectid="cat035" width="25" centered=true %}
+
 {% include feature/card.html header="Tusi says:" text="Have a good day!" objectid="cat034" width="50" centered=true %}
 
+Some happy sounds from Tofu:
 {% include feature/audio.html objectid="cat026" %}
 
 {% include feature/image.html objectid="cat025" width="75" %}
