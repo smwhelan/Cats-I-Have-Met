@@ -9,10 +9,12 @@
 
 ## Featured Cats
 
-{% include feature/image.html objectid="cat025" width="75" %}
+{% include feature/video.html objectid="cat030" %}
+
+{% include feature/card.html header="Sesame" text="Have a good day!" objectid="cat034" width="25" centered=true %}
+
+{% include feature/card.html header="Tusi Paw" text="" objectid="cat029" width="50" centered=true %}
 
 {% include feature/audio.html objectid="cat026" %}
 
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="cat034" width="25" centered=true %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="cat034" width="25" centered=true %}
-
-{% include feature/video.html objectid="cat030" %}
+{% include feature/image.html objectid="cat025" width="75" %}
